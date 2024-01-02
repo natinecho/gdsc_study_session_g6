@@ -1,6 +1,6 @@
 // App.jsx
 import React from 'react';
-import ShoppingCart from './E-comerse/Shoping';
+import ShoppingCart from '../../gdsc_study_session_g6/E-comerse/E-comerse/Shoping';
 import './E-comerse/Shop.css'; // Import your CSS file
 
 const App = () => {
